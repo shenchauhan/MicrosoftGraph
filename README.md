@@ -1,6 +1,6 @@
 # Supercharge your experiences with the Microsoft Graph
 
-## What is the Microsoft 365?
+## Framing: What is Microsoft 365?
 M365 is a term you'll be hearing more frequently from Microsoft, but for a developer, what does this really mean? In this post I'll show you how you can supercharge your Windows/Cross Platform/Web experience to utilize the vast array of M365 services from Email, Calendar, Excel and Insights.
 
 The first question I often get asked is: *"What is M365?"*
@@ -28,7 +28,7 @@ The Microsoft Graph is a set of HTTP endpoints that allows developers to access 
 *Note: This does require permission and that the user is logged in using a Microsoft account (Hotmail, Outlook or Azure Active Directory)*
 
 ### Microsoft Graph Explorer 
-Now you know what the Microsoft Graph is, and it's relation to Microsoft 365. What can you do with it? The best place to learn more is the [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (https://developer.microsoft.com/en-us/graph/graph-explorer). This web site shows you just some of HTTP calls you can make to supercharge your experience.
+Now you know what the Microsoft Graph is, and it's relation to Microsoft 365. What can you do with it? The best place to get a deeper undstanding is [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (https://developer.microsoft.com/en-us/graph/graph-explorer). This web site shows you just some of HTTP calls you can make to supercharge your experience.
 
 The nice thing about the Graph Explorer is that you can click on the various sample queries and get a feel for the JSON data you'll get back: 
 ![GraphWebsite](/Assets/graphWebsite.png "Graph Website")
@@ -37,7 +37,7 @@ If you want some real fun, then authenticate using your credentials by clicking 
 
 ![Authentication](/Assets/authenticationScreen.png "Authentication")
 
-Once authenticated, you'll be able to use the POST methods too. Be care though, remember this is a live POST using your account!
+Once authenticated, you'll be able to use the POST methods too. Be careful though, remember this is a live POST using your account!
 
  If you want some more endpoints, like Teams, OneNote, Outlook, Insights, People etc. Click on the **show more samples** link at the bottom of the samples
 
@@ -57,10 +57,9 @@ This removes a big pain when I'm trying to organize a meeting with a lot of peop
 
 ### Windows Community Toolkit
 Another great resource to get you up and running is the [Windows Community Toolkit](https://aka.ms/windowstoolkit
-). I won't go into details about the toolkit here (it's a whole new blog post!) but I want to call it out because it too, has some Graph controls which are super handy.
+). I won't go into details about the toolkit here (it's a whole new blog post!) but I want to call it out because it has some Graph controls which are super handy, like connecting to AAD.
 
 ![WindowsCommunityToolkit](/Assets/toolkit.png " Graph Controls")
 
-
-To learn more about the Microsoft Graph, check out our great docs:
+I hope you enjoyed this brief overview of the Microsoft Graph.  To learn more about the Microsoft Graph, check out our great docs:
 https://developer.microsoft.com/en-us/graph/docs/concepts/overview
