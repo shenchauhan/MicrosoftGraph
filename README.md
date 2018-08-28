@@ -43,7 +43,7 @@ Once authenticated, you'll be able to use the POST methods too. Be careful thoug
 
 ![ShowMoreSamples](/Assets/showMoreSamples.png "Show more samples")
 
-And then a bunch of samples categories slide out from the right
+And then a bunch of sample categories slide out from the right
 
 ![SamplesCategories](/Assets/sampleCategories.png "Sample categories")
 
@@ -61,5 +61,5 @@ Another great resource to get you up and running is the [Windows Community Toolk
 
 ![WindowsCommunityToolkit](/Assets/toolkit.png " Graph Controls")
 
-I hope you enjoyed this brief overview of the Microsoft Graph.  To learn more about the Microsoft Graph, check out our great docs:
+I hope you enjoyed this brief overview of the Microsoft Graph and I encourage you to try it. It's super simple to play with thanks to the tools mentioned in this post.  To learn more about the Microsoft Graph, check out our great docs:
 https://developer.microsoft.com/en-us/graph/docs/concepts/overview
