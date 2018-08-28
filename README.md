@@ -28,7 +28,7 @@ The Microsoft Graph is a set of HTTP endpoints that allows developers to access 
 *Note: This does require permission and that the user is logged in using a Microsoft account (Hotmail, Outlook or Azure Active Directory)*
 
 ### Microsoft Graph Explorer 
-Now you know what the Microsoft Graph is, and it's relation to Microsoft 365. What can you do with it? The best place to get a deeper undstanding is [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (https://developer.microsoft.com/en-us/graph/graph-explorer). This web site shows you just some of HTTP calls you can make to supercharge your experience.
+Now you know what the Microsoft Graph is, and it's relation to Microsoft 365. What can you do with it? The best place to get a deeper undstanding is the [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (https://developer.microsoft.com/en-us/graph/graph-explorer). This web site shows you just some of HTTP calls you can make to supercharge your experience.
 
 The nice thing about the Graph Explorer is that you can click on the various sample queries and get a feel for the JSON data you'll get back: 
 ![GraphWebsite](/Assets/graphWebsite.png "Graph Website")
